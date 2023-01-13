@@ -18,16 +18,15 @@
 
 ## Getting Started
 
-1. Clone this repository to `~/.local/share/albert/org.albert.extension.python/modules`:
+1. Clone this repository to `~/.local/share/albert/python/plugins`:
    ```
-   git clone https://github.com/hankliao87/albert-web-search.git $HOME/.local/share/albert/org.albert.extension.python/modules/web-search
+   git clone https://github.com/hankliao87/albert-web-search.git $HOME/.local/share/albert/python/plugins/web-search
    ```
-
-2. Enable `Web Search` plugin in `albert settings - Extensions - Python`
+2. Enable `Web Search` plugin in `albert settings - Plugins - Python`
 
 ## Usage
 
-`<trigger> <expression>`
+`!<trigger> <expression>`
 
 | Trigger | Search Engine |
 | ------- | ------------- |
